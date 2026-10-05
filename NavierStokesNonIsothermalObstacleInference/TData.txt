@@ -1,0 +1,14 @@
+% Model:              NavierStokesNonIsothermalObstacleInference.mph
+% Version:            COMSOL 6.4.0.378
+% Date:               Aug 25 2026, 19:51
+% Dimension:          2
+% Nodes:              5
+% Expressions:        1
+% Description:        Temperature
+% Length unit:        m
+% x                       y                        T (K)
+0.75                      0                        360.90046305615977
+1.125                     0                        336.70935430326335
+1.5                       0                        328.530258115047
+1.875                     0                        323.9331555235611
+2.25                      0                        320.64040507361136
